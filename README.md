@@ -64,4 +64,4 @@ Implementación de diversas métricas matemáticas para comparar "perfiles" de p
 5. Abre el archivo .ipynb y ejecuta las celdas secuencialmente. (Asegúrate de que los archivos wdbc.data y wdbc.names estén en el mismo directorio que el cuaderno).
 
 ✒️ Autor
-[Carlos A. Ramirez/carlosazaelr] - Desarrollo de la práctica - [GitHub](https://github.com/carlosazaelr/Practica1ICD/p1)
+[Carlos A. Ramirez/carlosazaelr] - Desarrollo de la práctica - [GitHub](https://github.com/carlosazaelr/Practica1ICD/tree/main/p1)
