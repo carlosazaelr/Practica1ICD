@@ -1,2 +1,2 @@
 # Practica1ICD
-Introducción a las Ciencias de Datos
+Introducción a Ciencia de Datos
